@@ -13,6 +13,7 @@ body {
   font-size: 30px;
 }
 
+/* GRID CONTAINER */
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto auto;
@@ -20,6 +21,7 @@ body {
   background-color: rgba(100, 255, 255, 1.0);
 }
 
+/* DEFAULT GRID ITEMS */
 .grid-container > div {
   background-color: rgba(255, 255, 255, 0.8);
   padding: 5px;

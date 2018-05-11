@@ -1,6 +1,6 @@
 // alert("Hi");
 
-let foo = []
+
 
 function Website (make, model, year) {
   this.make = make
